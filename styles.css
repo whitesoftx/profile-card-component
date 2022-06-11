@@ -97,6 +97,7 @@
 .stats-content span {
     color: var(--dark-grayish-blue);
     font-size: 10px;
+    letter-spacing: 1px;
 }
 
 
