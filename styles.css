@@ -53,7 +53,6 @@
 .main-card h1 {
     color: var(--very-dark-desaturated-blue);
     font-size: 18px;
-
 }
 
 .main-card h1 span {
@@ -85,6 +84,7 @@
 .stats-content {
     text-align: center;
     font-family: 'Kumbh Sans', sans-serif;
+    letter-spacing: 1px;
 }
 
 .stats-content p {
@@ -97,6 +97,7 @@
 .stats-content span {
     color: var(--dark-grayish-blue);
     font-size: 10px;
+    letter-spacing: 1px;
 }
 
 
@@ -112,7 +113,5 @@
       display: flex;
       justify-content: center;
       align-items: center;
-
-
     }
   }
